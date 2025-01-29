@@ -30,13 +30,10 @@ For personal and educational purposes only.
 
 ## 🚀 Getting Started
 
-### **1. Open index.html
+### 1. Open index.html
 Simply open index.html in a browser—no installation required.
 
 ### **2. Clone the Repository**
 ```sh
 git clone https://github.com/your-username/valentine-surprise.git
 cd valentine-surprise
-
-
-
